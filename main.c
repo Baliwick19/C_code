@@ -1,11 +1,16 @@
-// Hello_World!
+// p2_1 
 
-#include <stdio.h>
+/*
 
-int main(){
+a) main 
+b) { .. }
+c) ; 
+d) printf
+e) newline
+f) scanf
+g) %d
+h) destructive
+i) non-destructive
+j) if
 
-	printf("Hello World") ;
-
-	return 0 ; 
-
-}
+*/
