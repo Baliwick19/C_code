@@ -1,11 +1,15 @@
-// Hello_World!
+// p3_2 incremnt_in_x
 
-#include <stdio.h>
 
-int main(){
 
-	printf("Hello World") ;
+/* 
+ 
+   1) x = x + 1  ;
+   
+   2) x++ ; 
 
-	return 0 ; 
+   3) ++x ; 
 
-}
+   4) x += 1 ; 
+
+ */
