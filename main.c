@@ -8,7 +8,7 @@ int main(){
 	
 	int x = 5 ; 
 
-    // it first incremnets value of x by 1, then displays the values of x. 
+    // it first increments value of x by 1, then displays the values of x. 
 	printf("%d\n", ++x ); 
 	printf("%d\n", x ); 
 
@@ -16,7 +16,7 @@ int main(){
 
 	x = 5 ; 
 
-	// it first displays the values of x then incremnets its value by 1.
+	// it first displays the values of x then increments its value by 1.
 	printf("%d\n", x++ );
 	printf("%d\n", x );
 
