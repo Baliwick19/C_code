@@ -10,7 +10,7 @@ int main(){
 	while ( n <= 5 ) {
 		int m = 7 * n ; 
 		printf("%d \t %d \t %d \t %d\n", m, m + 3, m + 6, m + 9);
-        n++ ; 
+        n++  ; 
 	}
 	return 0 ;
 }
