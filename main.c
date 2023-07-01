@@ -4,7 +4,7 @@
 
 int main(){
 	
-	int n = 1 ; 
+	int n = 1  ; 
 	
 	printf("\n\nN \t N+3 \t N+6 \t N+9 \n\n");
 	while ( n <= 5 ) {
