@@ -1,11 +1,1 @@
-// Hello_World!
-
-#include <stdio.h>
-
-int main(){
-
-	printf("Hello World") ;
-
-	return 0 ; 
-
-}
+/* p5_21 p5_21_drawing_shapes */ 
