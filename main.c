@@ -1,11 +1,1 @@
-// Hello_World!
-
-#include <stdio.h>
-
-int main(){
-
-	printf("Hello World") ;
-
-	return 0 ; 
-
-}
+/* p5_18 p5_18_even_odd */ 
