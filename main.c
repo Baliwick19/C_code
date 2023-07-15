@@ -1,11 +1,11 @@
-// Hello_World!
+/* p6_7 p6_7_t_f */
 
-#include <stdio.h>
+/*
 
-int main(){
-
-	printf("Hello World") ;
-
-	return 0 ; 
-
-}
+	a) false. 
+	b) true. 
+	c) true. 
+	d) false.
+	e) true.
+	f) false.
+*/
