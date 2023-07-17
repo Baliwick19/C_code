@@ -1,11 +1,1 @@
-// Hello_World!
-
-#include <stdio.h>
-
-int main(){
-
-	printf("Hello World") ;
-
-	return 0 ; 
-
-}
+/* p6_14 p6_14_union_of_sets */ 
